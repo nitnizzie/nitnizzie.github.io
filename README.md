@@ -1,2 +1,2 @@
-# nitizzie.github.io
+# nitnizzie.github.io
 personal page
